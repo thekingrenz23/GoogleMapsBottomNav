@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleMapsBottomNav</string>
+    <string name="map">Map</string>
+    <string name="other">Other</string>
+</resources>
